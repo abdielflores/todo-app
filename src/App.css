@@ -8,3 +8,14 @@
 .card {
   padding: 2em;
 }
+
+.tarea-realizada {
+  text-decoration: line-through;
+  font-style: oblique;
+}
+
+.tarea-texto {
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+}
